@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sunandan1694
+- 👋 Hi, I’m Sunandan
 - 👀 I’m interested in you
 - 🌱 I’m currently learning python
 - 📫 You can't reach me
